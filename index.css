@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(#03a9f4, #03a9f4 45%, #fff 45%, #fff 100%);
+    background: linear-gradient(#A020F0, #A020F0 45%, #fff 45%, #fff 100%);
 }
 
 .card {
